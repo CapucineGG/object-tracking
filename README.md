@@ -4,7 +4,7 @@ Petit projet de Computer Vision : détecter des personnes dans une vidéo, les s
 
 ## Le problème
 
-Je voulais découvrir concrètement si le Computer Vision (détection d'objets / analyse vidéo) est un domaine qui m'intéresse vraiment, en construisant un petit projet que je vais réellement terminer — pas un énième projet commencé puis abandonné.
+Je voulais découvrir concrètement si le Computer Vision (détection d'objets / analyse vidéo) est un domaine qui m'intéresse vraiment, en construisant un petit projet.
 
 ## La solution
 
@@ -72,9 +72,6 @@ La vidéo annotée est générée dans `data/output_line.mp4`.
 - **Ligne de comptage horizontale à hauteur fixe** : à cause de la perspective de la caméra, les personnes qui arrivent par les côtés de l'image peuvent traverser la zone sans être comptées. Une ligne suivant l'angle réel du chemin serait plus précise, mais dépasse le périmètre choisi pour ce projet.
 - Traitement de la vidéo en différé (pas en temps réel).
 
-## Ce que j'ai appris
-
-*(à compléter avec mes propres mots avant publication)*
 
 ## Remerciements
 
