@@ -74,3 +74,7 @@ La vidéo annotée est générée dans `data/output_line.mp4`.
 - **ID switch** : quand deux personnes se croisent ou que l'une est temporairement cachée, le tracker peut lui attribuer un nouvel ID à sa réapparition — limite connue des trackers basés sur la position plutôt que sur l'apparence.
 - **Calibration manuelle de la ligne** : les coordonnées de `LINE_A`/`LINE_B` sont choisies à l'œil pour cette vidéo précise ; changer de caméra ou d'angle nécessite de les redéfinir à la main.
 - Traitement de la vidéo en différé (pas en temps réel) — une version webcam/flux live a été explorée mais pas encore aboutie.
+
+## Remerciements
+
+Vidéo de test `vtest.avi` fournie par le dépôt officiel OpenCV (samples).
