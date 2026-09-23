@@ -72,7 +72,3 @@ La vidéo annotée est générée dans `data/output_line.mp4`.
 - **Ligne de comptage horizontale à hauteur fixe** : à cause de la perspective de la caméra, les personnes qui arrivent par les côtés de l'image peuvent traverser la zone sans être comptées. Une ligne suivant l'angle réel du chemin serait plus précise, mais dépasse le périmètre choisi pour ce projet.
 - Traitement de la vidéo en différé (pas en temps réel).
 
-
-## Remerciements
-
-Vidéo de test `vtest.avi` fournie par le dépôt officiel OpenCV (samples).
